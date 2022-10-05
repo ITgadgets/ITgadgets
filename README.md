@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ITgadgets
+- 👋 Hi, I’m Nathan
 - 👀 I’m interested in building myself 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on with people 
